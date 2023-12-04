@@ -40,3 +40,8 @@ Exemplos específicos:
 - **404 Not Found**: O recurso solicitado não foi encontrado.
 
 Referências: [MDN Web Docs](^e^), [TutorialsPoint](^g^)
+
+
+---
+
+Feito por Lucas Nobre - 01516392
